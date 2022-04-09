@@ -1,0 +1,14 @@
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\bin\Debug\netcoreapp3.1\Classwork.exe
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\bin\Debug\netcoreapp3.1\Classwork.deps.json
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\bin\Debug\netcoreapp3.1\Classwork.runtimeconfig.json
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\bin\Debug\netcoreapp3.1\Classwork.runtimeconfig.dev.json
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\bin\Debug\netcoreapp3.1\Classwork.dll
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\bin\Debug\netcoreapp3.1\Classwork.pdb
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.csproj.AssemblyReference.cache
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.AssemblyInfoInputs.cache
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.AssemblyInfo.cs
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.csproj.CoreCompileInputs.cache
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.dll
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.pdb
+C:\Users\Shahriyar1\Desktop\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.genruntimeconfig.cache
